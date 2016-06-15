@@ -1,0 +1,1 @@
+require 'whats_wrong'
