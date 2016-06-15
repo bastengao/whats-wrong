@@ -10,8 +10,8 @@ Gem::Specification.new do |s|
   s.authors     = ["bastengao"]
   s.email       = ["bastengao@gmail.com"]
   s.homepage    = "https://github.com/bastengao/whats-wrong"
-  s.summary     = "Override error pages for Rails"
-  s.description = "Override error pages for Rails"
+  s.summary     = "Overriding Rails default static error pages for your locale."
+  s.description = "Overriding Rails default static error pages for your locale."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]

@@ -1,5 +1,6 @@
 # Whats::Wrong
-Override error pages for Rails
+Overriding Rails default static error pages for your locale.
+
 
 ## Usage
 How to use my plugin.
