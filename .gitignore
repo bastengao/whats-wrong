@@ -8,3 +8,5 @@ test/dummy/tmp/
 
 .env
 config
+
+*.gem
