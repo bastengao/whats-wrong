@@ -1,0 +1,16 @@
+en:
+  pages:
+    '404':
+      title: The page you were looking for doesn't exist (404)
+      header: The page you were looking for doesn't exist.
+      description: You may have mistyped the address or the page may have moved.
+      hint: If you are the application owner check the logs for more information.
+    '422':
+      title: The change you wanted was rejected (422)
+      header: The change you wanted was rejected.
+      description: Maybe you tried to change something you didn't have access to.
+      hint: If you are the application owner check the logs for more information.
+    '500':
+      title: We're sorry, but something went wrong (500)
+      header: We're sorry, but something went wrong.
+      hint: If you are the application owner check the logs for more information.
